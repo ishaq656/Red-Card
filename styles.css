@@ -1,0 +1,73 @@
+  
+ 
+html, body {
+    overflow-x: hidden;
+}
+
+  #playstore{
+            display: flex;
+            justify-content: center;
+            gap:2%;
+            margin-top: 20%;
+        }
+        #para{
+            font-family: "Arimo", sans-serif;
+            font-size: 28px;
+            line-height: 7px;
+            font-weight:400;
+            text-align: center;
+        }
+        #para2{
+             font-family: "Arimo", sans-serif;
+            font-size: 30px;
+             
+            text-align: center;
+
+        }
+        #firstdiv{
+            display:flex;
+            justify-content: space-around;
+            margin-top: 2%;
+            background-color:rgb(218, 228, 228);
+
+        }
+        #div2{
+             display:flex;
+            justify-content: space-around;
+
+                }
+        
+        #div3{
+             display:flex;
+            justify-content: space-around;
+        }
+        #biglogo{
+            width:40%;
+            text-align: center;
+            margin-left: 6%;
+            
+        }
+        #top_screen{
+            width:40%;
+            text-align: left;
+            margin-right: 6%;
+        }
+        #logo{
+            padding:0;
+            margin-top: 21%;
+            margin-left:5%;
+        }
+       .footer{
+              display: flex;
+              flex-direction:column;
+               gap: 10px;
+               justify-content: center;
+               align-items: center;
+               margin-top: 10px;
+        }
+    #playsto{
+            display: flex;
+            justify-content: center;
+            gap:2%;
+            
+        }

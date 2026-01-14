@@ -1,0 +1,23 @@
+
+
+ 
+*{  margin:0px;
+    padding:0px;
+     font-family: "Arimo", sans-serif;}
+   
+
+.image{
+    position:relative;
+    height:150px;
+    width:150px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    padding:3px;
+
+}
+.image .profile_image{
+    height: 100%;
+    width:100%;
+    object-fit: contain;
+    border: 3px solid #fff;
+}
